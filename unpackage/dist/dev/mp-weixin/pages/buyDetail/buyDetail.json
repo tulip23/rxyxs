@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "详情",
+  "usingComponents": {
+    "uni-countdown": "/components/uni-countdown/uni-countdown",
+    "uni-icons": "/components/uni-icons/uni-icons",
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

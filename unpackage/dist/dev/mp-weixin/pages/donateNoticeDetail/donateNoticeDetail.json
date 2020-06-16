@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "募捐详情",
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons"
+  }
+}

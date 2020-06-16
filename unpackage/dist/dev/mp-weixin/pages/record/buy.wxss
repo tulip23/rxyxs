@@ -1,0 +1,52 @@
+
+.all.data-v-21226aca{
+	background-color: white;
+	width: 92%;
+	margin: 20rpx auto;
+	border-radius: 10rpx;
+	position: relative;
+	padding-bottom: 10rpx;
+}
+.two.data-v-21226aca{
+	width: 100%;
+	margin-left: 5rpx;
+}
+.two image.data-v-21226aca{
+	width: 320rpx;
+	height: 320rpx;
+	border-radius: 10rpx;
+	margin: 0 13rpx;
+	display: inline-block;
+}
+.title.data-v-21226aca{
+	font-size: 30rpx;
+	margin: 0 0 0 10rpx;
+	padding-top: 10rpx;
+	position: relative;
+}
+.stat.data-v-21226aca{
+	position: absolute;
+	bottom: 20rpx;
+	right: 20rpx;
+	color: #BBBBBB;
+}
+.created.data-v-21226aca{
+	margin: 10rpx 10rpx;
+	color: #BBBBBB;
+}
+.price.data-v-21226aca{
+	position: absolute;
+	left: 410rpx;
+	top: 10rpx;
+	font-size: 30rpx;
+}
+.myspan.data-v-21226aca{
+	color: orange;
+	font-weight: 600;
+	font-size: 30rpx;
+}
+.myaddr.data-v-21226aca{
+	width: 100%;
+	margin-left: 15rpx;
+}
+

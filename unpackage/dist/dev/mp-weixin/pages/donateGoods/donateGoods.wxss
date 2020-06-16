@@ -1,0 +1,140 @@
+
+.all.data-v-4d374608{
+	height: 550rpx;
+	background-color: white;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	position: relative;
+	padding-bottom: 20rpx;
+}
+.pop.data-v-4d374608{
+	margin: 20rpx;
+	padding-top: 20rpx;
+}
+.pop image.data-v-4d374608{
+	width: 350rpx;
+	height: 250rpx;
+	border-radius: 20rpx;
+}
+.mynav.data-v-4d374608{
+	position: absolute;
+	bottom: 0;
+	width: 90%;
+	z-index: 10;
+}
+.myGoods.data-v-4d374608{
+	margin-top: 40rpx;
+	margin-left: 50rpx;
+	position: absolute;
+	top: 40rpx;
+	right: 40rpx;
+}
+.myname.data-v-4d374608{
+	font-weight: 600;
+}
+.myprice.data-v-4d374608{
+	margin-top: 10rpx;
+	color: red;
+}
+.myspans.data-v-4d374608{
+	font-size: 35rpx;
+	font-weight: 600;
+	color: red;
+}
+.mytwo.data-v-4d374608{
+	width: 100%;
+	border-bottom: 2rpx solid #F1F1F1;
+	border-top: 2rpx solid #F1F1F1;
+	margin-bottom: 10rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: nowrap;
+	        flex-wrap: nowrap;
+	-webkit-box-pack: justify;
+	-webkit-justify-content: space-between;
+	        justify-content: space-between;
+	height: 110rpx;
+}
+.close.data-v-4d374608{
+	position: absolute;
+	top: 10rpx;
+	right: 20rpx;
+}
+.myqtys.data-v-4d374608{
+	margin: 0 30rpx;
+	display: inline-block;
+	-webkit-transform: translateY(-5rpx);
+	        transform: translateY(-5rpx);
+	font-size: 30rpx;
+}
+.buy.data-v-4d374608{
+	margin: 35rpx 20rpx;
+}
+.buybtn.data-v-4d374608{
+	margin-top: 15rpx;
+	margin-right: 40rpx;
+}
+.myspan.data-v-4d374608{
+	color: orange;
+}
+.popImage.data-v-4d374608{
+	width: 100%;
+	margin: 20rpx auto;
+	background-color: white;
+	text-align: center;
+	border-radius: 10rpx;
+	padding-bottom: 10rpx;
+}
+.icon-shanchu.data-v-4d374608{
+	position: absolute;
+	right: 0;
+	top: -10;
+	color: red;
+}
+.uni-uploader__file.data-v-4d374608{
+	position: relative;
+}
+.popImage.data-v-4d374608{
+	height: 400rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.popImage input.data-v-4d374608{
+	width: 100%;
+	border: #C0C0C0 1px solid;
+	padding: 5rpx 0;
+}
+.cell-pd.data-v-4d374608 {
+	padding: 22rpx 30rpx;
+}
+.btn.data-v-4d374608{
+	background-color: orange;
+	font-size: 28rpx;
+	width: 180rpx;
+	height: 70rpx;
+	line-height: 70rpx;
+	margin: 40rpx auto;
+	color: white;
+	font-weight: 600;
+}
+.uploadBox.data-v-4d374608{
+	margin: 30rpx;
+	font-size: 30rpx;
+	font-weight: 600;
+	background-color: white;
+}
+.three.data-v-4d374608{
+	background-color: white;
+	width: 92%;
+	border-radius: 10rpx;
+	padding: 20rpx 0;
+	margin: 20rpx auto;
+}
+

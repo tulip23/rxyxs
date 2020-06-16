@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///D:/1.wechat_project/rxyxs/main.js"],"names":["createPage","Page"],"mappings":";;;;;;;;;;kDAAA;AACA;AACA,mH;AACAA,UAAU,CAACC,mBAAD,CAAV,C","file":"pages/record/myDonation/myDonation.js","sourcesContent":["import 'uni-pages';\nimport Vue from 'vue'\nimport Page from './pages/record/myDonation/myDonation.vue'\ncreatePage(Page)"],"sourceRoot":""}

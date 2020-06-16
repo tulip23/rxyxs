@@ -1,0 +1,44 @@
+
+.myInfo.data-v-5ff3dd3c{
+	background-color: white;
+	width: 92%;
+	margin: 20rpx auto;
+	border-radius: 10rpx;
+	padding-bottom: 20rpx;
+}
+.all.data-v-5ff3dd3c{
+	margin: 30rpx;
+	border-bottom: 2rpx solid #EEEEEE;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: nowrap;
+	        flex-wrap: nowrap;
+}
+.left.data-v-5ff3dd3c{
+	margin-bottom: 30rpx;
+	margin-right: 100rpx;
+	width: 200rpx;
+}
+.three.data-v-5ff3dd3c{
+	background-color: white;
+	width: 92%;
+	border-radius: 10rpx;
+	padding: 20rpx 0;
+	margin: 20rpx auto;
+}
+.uni-list-cell-db.data-v-5ff3dd3c{
+	-webkit-transform: translateY(-10rpx);
+	        transform: translateY(-10rpx);
+}
+.btn.data-v-5ff3dd3c{
+	background-color: orange;
+	font-size: 28rpx;
+	width: 160rpx;
+	height: 70rpx;
+	line-height: 70rpx;
+	color: white;
+	font-weight: 600;
+	margin-top: 20rpx;
+}
+

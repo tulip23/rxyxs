@@ -1,0 +1,274 @@
+{
+	"pages": [
+		{
+			"path": "pages/myInit/myInit",
+			"style": {
+				"navigationBarTitleText": "授权登录"
+			}
+		},
+		{
+			"path": "pages/my/my",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+			}
+		},
+		{
+		    "path" : "pages/record/record",
+		    "style" : {
+				"navigationBarTitleText":"我的订单",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+		    "path" : "pages/certification/certification",
+		    "style" : {
+				"navigationBarTitleText": "加入机构"
+			}
+		},
+		{
+		    "path" : "pages/record/buyCar",
+		    "style" : {
+				"navigationBarTitleText":"我的购物车",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/buy/buy",
+			"style": {
+				"navigationBarTitleText": "竞拍列表",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+		    "path" : "pages/changePhone/changePhone",
+		    "style" : {
+				"navigationBarTitleText":"更换手机号"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "日行一小善",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+		    "path" : "pages/donateNotice/donateNotice",
+		    "style" : {
+				"navigationBarTitleText":"募捐公告",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+		    "path" : "pages/allGoods/allGoods",
+		    "style" : {
+				"navigationBarTitleText": "物品列表",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+		    "path" : "pages/checkIdentify/checkIdentify",
+		    "style" : {
+				"navigationBarTitleText":"认证用户信息"
+			}
+		},
+		{
+		    "path" : "pages/information/information",
+		    "style" : {
+				"navigationBarTitleText": "个人资料设置"
+			}
+		},
+		{
+			"path": "pages/personInfo/setPassword",
+			"style": {
+				"navigationBarTitleText": "设置密码"
+			}
+		},
+		{
+			"path": "pages/personInfo/updatePass",
+			"style": {
+				"navigationBarTitleText": "修改支付密码"
+			}
+		},
+		{
+			"path": "pages/personInfo/updatePhone",
+			"style": {
+				"navigationBarTitleText": "修改手机号"
+			}
+		},
+		{
+		    "path" : "pages/record/activity",
+		    "style" : {
+				"navigationBarTitleText":"活动记录",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+		    "path" : "pages/record/buy",
+		    "style" : {
+				"navigationBarTitleText":"竞拍记录",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+		    "path" : "pages/activityDetail/activityDetail",
+		    "style" : {
+				"navigationBarTitleText":"活动详情"
+			}
+		},
+		{
+		    "path" : "pages/activity/activity",
+		    "style" : {
+				"navigationBarTitleText":"活动",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+		    "path" : "pages/donateNoticeDetail/donateNoticeDetail",
+		    "style" : {
+				"navigationBarTitleText":"募捐详情"
+			}
+		},
+		{
+			"path": "pages/notice/notice",
+			"style": {
+				"navigationBarTitleText": "公告"
+			}
+		},
+		{
+		    "path" : "pages/goodsDetail/goodsDetail",
+		    "style" : {
+				"navigationBarTitleText":"商品详情"
+			}
+		},
+		{
+		    "path" : "pages/forgetPassword/forgetPassword",
+		    "style": {
+		    	"navigationBarTitleText": "找回密码"
+		    }
+		},
+		{
+			"path": "pages/personInfo/updateMail",
+			"style": {
+				"navigationBarTitleText": "修改邮箱"
+			}
+		},
+		{
+		    "path" : "pages/personDetail/personDetail",
+		    "style" : {
+				"navigationBarTitleText": "我的认证资料"
+			}
+		},
+		{
+		    "path" : "pages/identify/identify",
+		    "style" : {
+				"navigationBarTitleText": "身份认证"
+			}
+		},
+		{
+            "path" : "pages/updateOrganize/updateOrganize",
+            "style": {
+            	"navigationBarTitleText": "修改机构"
+            }
+        }
+        ,{
+            "path" : "pages/noticeDetail/noticeDetail",
+            "style" : {
+				"navigationBarTitleText":"公告详情"
+			}
+        }
+        ,{
+            "path" : "pages/record/myDonation",
+            "style" : {
+				"navigationBarTitleText":"捐赠记录",
+				"enablePullDownRefresh": true
+			}
+        }
+        ,{
+            "path" : "pages/recordDetail/recordDetail",
+            "style" : {
+				"navigationBarTitleText":"订单详情"
+			}
+        }
+        ,{
+            "path" : "pages/buyDetail/buyDetail",
+            "style" : {
+				"navigationBarTitleText":"详情"
+			}
+        }
+        ,{
+            "path" : "pages/checkPhone/checkPhone",
+            "style" : {
+				"navigationBarTitleText":"绑定手机号"
+			}
+        }
+        ,{
+            "path" : "pages/checkNumber/checkNumber",
+            "style" : {
+				"navigationBarTitleText":"验证"
+			}
+        }
+        ,{
+            "path" : "pages/credit/reward",
+            "style" : {
+				"navigationBarTitleText":"奖励记录"
+			}
+        }
+        ,{
+            "path" : "pages/credit/punish",
+            "style" : {
+				"navigationBarTitleText":"惩罚记录"
+			}
+        }
+        ,{
+            "path" : "pages/donateGoods/donateGoods",
+            "style" : {
+				"navigationBarTitleText":"捐赠物品"
+			}
+        }
+        ,{
+            "path" : "pages/updatePhone/updatePhone",
+            "style" : {
+				"navigationBarTitleText":"修改手机号"
+			}
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "日行一小善",
+		"navigationBarBackgroundColor": "#ffd33f",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar":{
+		"color":"#ADADAD",
+		"selectedColor":"#f67001",
+		"backgroundColor":"#FFFFFF",
+		"borderStyle":"black",
+		"list":[
+			{
+				"pagePath":"pages/index/index",
+				"text":"首页",
+				"iconPath":"static/index.png",
+				"selectedIconPath":"./static/index-active.png"
+			},
+			{
+				"pagePath":"pages/buy/buy",
+				"text":"竞拍",
+				"iconPath":"static/buy.png",
+				"selectedIconPath":"./static/buy-active.png"
+			},
+			{
+				"pagePath":"pages/notice/notice",
+				"text":"公告",
+				"iconPath":"static/notice.png",
+				"selectedIconPath":"./static/notice-active.png"
+			},
+			{
+				"pagePath":"pages/my/my",
+				"text":"我的",
+				"iconPath":"static/home.png",
+				"selectedIconPath":"./static/home-active.png"
+			}
+		]
+	}
+}

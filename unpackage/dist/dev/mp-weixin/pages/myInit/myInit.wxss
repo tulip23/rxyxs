@@ -1,0 +1,69 @@
+
+.all.data-v-acd8bb28{
+	margin: 30rpx;
+	border-bottom: 2rpx solid #EEEEEE;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: nowrap;
+	        flex-wrap: nowrap;
+}
+.left.data-v-acd8bb28{
+	margin-bottom: 30rpx;
+	margin-right: 50rpx;
+	width: 200rpx;
+}
+.checkBtn.data-v-acd8bb28{
+}
+.pop.data-v-acd8bb28{
+	width: 550rpx;
+	height: 800rpx;
+	background-color: white;
+	opacity:0.9;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+	margin: 300rpx auto;
+	border-radius: 30rpx;
+}
+.pop image.data-v-acd8bb28{
+	width: 350rpx;
+	height: 350rpx;
+	margin-top: 40rpx;
+	border-radius: 50%;
+	opacity:1
+}
+.pop button.data-v-acd8bb28{
+	width: 220rpx;
+	font-size: 24rpx;
+	background-color: white;
+	-webkit-transform: translateY(-70rpx);
+	        transform: translateY(-70rpx);
+	height: 95rpx;
+	line-height: 95rpx;
+	opacity:1
+}
+.icon-weixin.data-v-acd8bb28{
+	color: #09BB07;
+	opacity:1
+}
+button.data-v-acd8bb28::after{ border: none;}
+.getRight.data-v-acd8bb28{
+	width: 400rpx;
+	margin: 0 auto;
+	-webkit-transform: translateY(-100rpx);
+	        transform: translateY(-100rpx);
+	font-weight: 600;
+	text-align: center;
+}
+.all.data-v-acd8bb28{
+	width: 750rpx;
+	height: 1400rpx;
+	text-align: center;
+}
+

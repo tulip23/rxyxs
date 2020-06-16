@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "捐赠记录",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons"
+  }
+}

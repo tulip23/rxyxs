@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "捐赠物品",
+  "usingComponents": {
+    "uni-icons": "/components/uni-icons/uni-icons"
+  }
+}

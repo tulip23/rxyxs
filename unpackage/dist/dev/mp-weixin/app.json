@@ -1,0 +1,81 @@
+{
+  "pages": [
+    "pages/myInit/myInit",
+    "pages/my/my",
+    "pages/record/record",
+    "pages/certification/certification",
+    "pages/record/buyCar",
+    "pages/buy/buy",
+    "pages/changePhone/changePhone",
+    "pages/index/index",
+    "pages/donateNotice/donateNotice",
+    "pages/allGoods/allGoods",
+    "pages/checkIdentify/checkIdentify",
+    "pages/information/information",
+    "pages/personInfo/setPassword",
+    "pages/personInfo/updatePass",
+    "pages/personInfo/updatePhone",
+    "pages/record/activity",
+    "pages/record/buy",
+    "pages/activityDetail/activityDetail",
+    "pages/activity/activity",
+    "pages/donateNoticeDetail/donateNoticeDetail",
+    "pages/notice/notice",
+    "pages/goodsDetail/goodsDetail",
+    "pages/forgetPassword/forgetPassword",
+    "pages/personInfo/updateMail",
+    "pages/personDetail/personDetail",
+    "pages/identify/identify",
+    "pages/updateOrganize/updateOrganize",
+    "pages/noticeDetail/noticeDetail",
+    "pages/record/myDonation",
+    "pages/recordDetail/recordDetail",
+    "pages/buyDetail/buyDetail",
+    "pages/checkPhone/checkPhone",
+    "pages/checkNumber/checkNumber",
+    "pages/credit/reward",
+    "pages/credit/punish",
+    "pages/donateGoods/donateGoods",
+    "pages/updatePhone/updatePhone"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "日行一小善",
+    "navigationBarBackgroundColor": "#ffd33f",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#ADADAD",
+    "selectedColor": "#f67001",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/index.png",
+        "selectedIconPath": "./static/index-active.png"
+      },
+      {
+        "pagePath": "pages/buy/buy",
+        "text": "竞拍",
+        "iconPath": "static/buy.png",
+        "selectedIconPath": "./static/buy-active.png"
+      },
+      {
+        "pagePath": "pages/notice/notice",
+        "text": "公告",
+        "iconPath": "static/notice.png",
+        "selectedIconPath": "./static/notice-active.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "static/home.png",
+        "selectedIconPath": "./static/home-active.png"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

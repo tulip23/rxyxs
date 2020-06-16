@@ -1,0 +1,88 @@
+
+.content.data-v-26d0b492 {
+	background-color: white;
+	width: 92%;
+	margin: 20rpx auto;
+	border-radius: 10rpx;
+}
+.gridcss.data-v-26d0b492{
+	width: 90%;
+	margin: 0 auto;
+	padding: 20rpx 0;
+	text-align: center;
+}
+.icon-megaphone__ea.data-v-26d0b492{
+	color: orange;
+}
+.icon-huodong.data-v-26d0b492{
+	color: red;
+}
+.icon-shangpingoumai.data-v-26d0b492{
+	color: #E80080;
+}
+.icon.data-v-26d0b492{
+	margin-top: 15rpx;
+	font-size: 60rpx;
+}
+.service.data-v-26d0b492{
+	width: 91.5%;
+	font-size: 30rpx;
+	font-weight: 600;
+	margin-left: 35rpx;
+}
+.activitycss.data-v-26d0b492{
+	width: 92%;
+	background-color: white;
+	margin: 20rpx auto;
+	padding-bottom: 20rpx;
+	border-radius: 10rpx;
+}
+.first image.data-v-26d0b492{
+	width: 250rpx;
+	height: 180rpx;
+	border-radius: 10rpx;
+}
+.first.data-v-26d0b492{
+	margin: 0;
+	padding: 0;
+}
+.total.data-v-26d0b492{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: nowrap;
+	        flex-wrap: nowrap;
+	width: 92%;
+	margin: 0 auto;
+	padding: 20rpx 0;
+	border-bottom: 2rpx solid #EEEEEE;
+	margin-top: 10rpx;
+}
+.second.data-v-26d0b492{
+	margin-left: 30rpx;
+	position: relative;
+}
+.contents.data-v-26d0b492{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	height: 140rpx;
+}
+.createdTime.data-v-26d0b492{
+	color: #BBBBBB;
+	font-size: 25rpx;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+#myac.data-v-26d0b492{
+	border-bottom: 2rpx solid #EEEEEE;
+	padding-bottom: 20rpx;
+}
+.stat.data-v-26d0b492{
+	position: absolute;
+	left: 0rpx;
+	bottom: 50rpx;
+	color: red;
+}
+
